@@ -40,4 +40,4 @@ The confusion matrix shows the performance of the model on different lung cancer
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Nithish Kumar K S
+Dharani G
